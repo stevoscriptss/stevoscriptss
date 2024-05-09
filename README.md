@@ -2,7 +2,7 @@
 
 # Support & Commissions
 
-![Steve's Server](https://invidget.switchblade.xyz/dQU9db2uWm)(http://discord.gg/dQU9db2uWm)
+![Steve's Server][(https://invidget.switchblade.xyz/dQU9db2uWm)](http://discord.gg/dQU9db2uWm)
 
 # Stats
 
