@@ -4,7 +4,7 @@
 
 [![Steve's Server](https://invidget.switchblade.xyz/dQU9db2uWm)](http://discord.gg/dQU9db2uWm)
 
-<img src="https://discordapp.com/api/guilds/589035287926013963/widget.png?style=banner2" alt="">
+<img src="https://discordapp.com/api/guilds/959861531514900572/widget.png?style=banner2" alt="">
 
 # Stats
 
