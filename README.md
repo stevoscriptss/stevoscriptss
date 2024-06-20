@@ -4,7 +4,7 @@
 
 
 
-(https://discordapp.com/api/guilds/959861531514900572/widget.png?style=banner2")[http://discord.gg/dQU9db2uWm]
+(https://discordapp.com/api/guilds/959861531514900572/widget.png?style=banner2)[http://discord.gg/dQU9db2uWm]
 
 
 # Stats
